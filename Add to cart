@@ -1,0 +1,14 @@
+### Why
+
+
+**As a registered user **
+**I want to add food items to cart  **
+**So that I can order food.**
+
+### Acceptance Criteria
+
+Scenario: 
+Given that the User want to add items to cart 
+When user press add to cart 
+Then all food items should be viewed in cart
+```
