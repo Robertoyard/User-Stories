@@ -1,0 +1,14 @@
+### Why
+
+
+**As a rider **
+**I want to deliver the order and take payment  **
+**So that I can give the order payment to restaurant admin and change the order status to checkout successful.**
+
+### Acceptance Criteria
+
+Scenario: 
+Given that the user is rider 
+When rider delivered the order and take payment from customer 
+Then rider gives payment to restaurant admin and change the order status to checkout successful.
+```
