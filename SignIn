@@ -1,0 +1,13 @@
+
+
+**As a registered user**
+**I want to log in to my account by entering username and password**
+**So that system authenticate me and I can use the system with same account**
+
+### Acceptance Criteria
+
+Scenario: 
+Given the the user is registered
+When user enters username and password and press SignIn button
+Then user should grant the user with access to user's account.
+```
