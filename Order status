@@ -1,0 +1,14 @@
+### Why
+
+
+**As a restaurant admin**
+**I want to change the order status from preparing to on way to delivered. **
+**So that the customer can check the state of the placed order.**
+
+### Acceptance Criteria
+
+Scenario: 
+Given that admin want to change the status of order
+When admin press the respective order state a confirmation dialogue box should appear.
+Then order status should be changed on confirmation and can be viewed by customer
+```
