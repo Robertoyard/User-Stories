@@ -1,0 +1,14 @@
+### Why
+
+
+**As a registered user **
+**I want to order food  **
+**So that I can save my time.**
+
+### Acceptance Criteria
+
+Scenario: 
+Given that the User is registered and want to place an order
+When user press the Confirm order button after adding the items to cart 
+Then order should be placed and seen be restaurant and rider.
+```
