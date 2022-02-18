@@ -1,0 +1,14 @@
+### Why
+
+
+**As a restaurant admin**
+**I want to confirm the order placed by the customer**
+**So that I can tell staff to prepare on time**
+
+### Acceptance Criteria
+
+Scenario: 
+Given user is restaurant admin
+When admin see an order placed by the customer and press confirm button
+Then a message of confirmation should be delivered to customer
+```
