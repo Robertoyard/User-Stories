@@ -1,1 +1,12 @@
 
+**As a user **
+**I want to register  **
+**So that I can use same credentials to use the system again.**
+
+### Acceptance Criteria
+
+Scenario: 
+Given that the User is a new user and want to create the account
+When user enters all the fields and press the signup button 
+Then all the data of user should be stored for future use.
+```
