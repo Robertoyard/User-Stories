@@ -1,0 +1,14 @@
+### Why
+
+
+**As a rider **
+**I want to pick the order placed by the customer  **
+**So that I can delivered I can pick from restaurant and delivered to customer on time.**
+
+### Acceptance Criteria
+
+Scenario: 
+Given that the User is a rider
+When user see that customer has placed the order, user should be able to pick it 
+Then all the riders would be unable to pick the same order.
+```
